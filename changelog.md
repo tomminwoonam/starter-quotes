@@ -11,3 +11,6 @@ Jan 18, 2017
 
 Amir: Added the "what" entry 
 Jan 18, 2017
+
+Tom: added random() method to controllers/Welcome.
+Jan 22, 2017
