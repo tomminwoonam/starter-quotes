@@ -8,3 +8,6 @@ Add changes in order: Older (top) to newer(bottom)
 Tom:  added "penguin-150x150.jpg" into /public/pix
       added new entry into "Quotes.php" in /application/models
 Jan 18, 2017
+
+Amir: Added the "what" entry 
+Jan 18, 2017
